@@ -26,7 +26,7 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
                    
   
 - `/plc_code` →
-  [PLC snippets demonstrating key control logic](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/Ladder%20PLC%201.pdf)  
+  [PLC snippets demonstrating key control logic (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/Ladder%20PLC%201.pdf)  
 
 ## Technical Skills & Keywords
 Motion Control | Servo Synchronization | Automation | PLC | High-Speed Cartoning | End-to-End System Design | Scalable Architecture | Production-Proven | Motion Logic | Load Balancing  
