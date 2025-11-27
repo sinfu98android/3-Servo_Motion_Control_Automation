@@ -33,3 +33,7 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
 
 ## Technical Skills & Keywords
 Motion Control | Servo Synchronization | Automation | PLC | High-Speed Cartoning | End-to-End System Design | Scalable Architecture | Production-Proven | Motion Logic | Load Balancing  
+
+## Contact 
+[Linkedin link](https://www.linkedin.com/in/yudi-hariyanto-2732462a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>
+Feel free to contact for questions, collaborations, or technical discussion
