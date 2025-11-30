@@ -1,5 +1,5 @@
-# 3-Servo Robotic Motion Control System
-**Project: 3-Servo Motion Control Automation**<br>
+# 3-Axis Synchronized Servo Robot
+**for sorting, collecting and cartoning**
 **Real-Time  | Modular & Scalable | HMI Powered by Orchestrix Framework**<br>
 [Orchestrix Framework (Source Included) | click here](https://github.com/sinfu98android/Orchestrix_main_framework/blob/main/README.md)
 
